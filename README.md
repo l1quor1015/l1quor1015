@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @l1quor1015
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security，and a devoted fan of 13 Sentinels: Aegis Rim. You should definitely give it a try!
 - 🌱 I’m currently learning binary exploitation
 - 📫 How to reach me liquorcanere@gmail.com
 
